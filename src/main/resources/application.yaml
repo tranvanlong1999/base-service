@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: base-service
+  datasource:
+    url: jdbc:postgresql://10.159.19.82:5433/postgres
+    driver-class-name: org.postgresql.Driver
+    username: postgres
+    password: Vnptit2020
